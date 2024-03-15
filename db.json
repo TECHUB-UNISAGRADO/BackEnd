@@ -1,10 +1,10 @@
 {
-  "teste": [
+  "cursos": [
     {
-      "id": 1
+      "nome": "Ciência da Computação"
     },
     {
-      "id": 2
+      "id": "Jogos Digitais"
     }
   ]
 }
