@@ -1,7 +1,9 @@
 {
     "cursos": [
         {
+            "id": "ciencia-da-computacao",
             "nome": "Ciência da Computação",
+            "periodo": "Somente noturno",
             "oCurso": [
                 "Desafios, tecnologias e mundo digital: o universo da computação é para pessoas antenadas nesses assuntos.",
                 "O bacharelado em Ciência da Computação forma profissionais capazes não só de propor soluções de problemas, mas também de inovar e promover a evolução tecnológica da computação e da informática.",
@@ -15,10 +17,14 @@
             "seuFuturo": [
                 "De olho no futuro e acompanhando as tendências na indústria da informação, pode-se dizer que o mercado de atuação está cada vez mais amplo e exigente, sendo a formação profissional cada vez mais essencial.",
                 "Grande parte das empresas públicas e privadas utiliza algum tipo de tecnologia para desenvolver suas atividades, necessitando de criação, programação, análise, suporte e inovação."
-            ]
+            ],
+            "telefone": "(14) 2107-7091",
+            "email": "computacao@unisagrado.edu.br"
         },
         {
+            "id": "jogos-digitais",
             "nome": "Jogos Digitais",
+            "periodo": "Somente noturno",
             "oCurso": [
                 "O mundo gamer é a casa dos profissionais de Jogos Digitais! Inovação e criatividade são a porta de entrada para essa graduação, que forma profissionais com conhecimentos dinâmicos relacionados ao processo de desenvolvimento do entretenimento digital interativo.",
                 "O curso promove sua capacitação de modo multidisciplinar para a sistematização no desenvolvimento e gestão de projetos, além da criação de roteiros e personagens, desenvolvimento gráfico, sonorização, motores de jogos (game engines), inteligência artificial e gestão de projetos de jogos, empreendedorismo, marketing e publicação de produtos finais.",
@@ -30,7 +36,9 @@
             "seuFuturo": [
                 "O Brasil é o principal mercado de jogos da América Latina, estando entre um dos maiores do mundo. Com isso, a demanda por profissionais qualificados para todo o processo de desenvolvimento, gestão e inovação do entretenimento no país é crescente.",
                 "Além disso, outros setores como educação, setor de treinamento profissional e Marketing estão cada vez mais interessados nas habilidades do tecnólogo em Jogos Digitais. Profissionais antenados com as novidades do mercado, criativos e inovadores terão um futuro promissor."
-            ]
+            ],
+            "telefone": "(14) 2107-7091",
+            "email": "jogos@unisagrado.edu.br"
         }
     ]
 }
